@@ -1,0 +1,10 @@
+1-  u create object which u can apply  on it function. it will mapped to to a database
+2-  u instance the object.--> const sequlize = new Sequlize( name,username,password,--}
+3-  create the model--> u call define method on the instance of the class to describe ur Table
+4-                             --> u call sync method on the instance to create the table.
+5- 	               --> u call create on the instance to enter a date to the table.
+6-	               --> to retrieve data u call find on the insstance which will return a promise.
+7-	              --> to update the database u can call save function on 	the fetched data from the database
+8-	              --> the samw way also can be used to delette by using drop method on the Retrived data.
+9-
+   

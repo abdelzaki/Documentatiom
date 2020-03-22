@@ -1,0 +1,12 @@
+1-  keys--> it is always unique.
+2-          --> Never changing
+3-          --> Never Null.
+4-  Index--> Not a lot to say.
+5-  LookupTable --> u make reference from the information in a table and put it in the other table. if u want to apply change u change it faster.
+6-  SuperKey--> Any number of colums which make the untity unique
+7-  CandidateKey--> The minimal number of Colums which make the entity unique.
+8-   PrimaryKey--> u pick one of the Candidate Key to be ur Primary Key.
+9-   Alternate Key--> can be used to select if u apply index.
+10  Surrogate Key--> made up key
+11-  FK constrain--> On DELETE ON UPADTE what happens when the parent changed 
+12-	          --> Restricted =Prevent, CASCADE = do the same, 	
